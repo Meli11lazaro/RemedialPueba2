@@ -1,0 +1,12 @@
+{
+	"Contacto": [{
+		"id": "1",
+		"Nombre": "Meliza",
+		"Apellido": "Lazaro ",
+		"Email": "mei@gmail.com ",
+		"Telefono": "123456789 ",
+		"Colonia": " san pedo",
+		"Calle": " av tolteca",
+		"NInte": "45 "
+	}]
+}
